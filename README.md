@@ -76,16 +76,10 @@ http://localhost:3000
 
 ## Screenshots
 
-Add screenshots of the application here.
-
-Homepage
-screenshots/homepage.png
-
-Restaurant Page
-screenshots/restaurant-page.png
-
-Reels Feed
-screenshots/reels-feed.png
+![image alt](https://github.com/NageshShankar/FoodieGram/blob/main/Screenshot%202026-03-13%20134321.png?raw=true)
+![image alt](https://github.com/NageshShankar/FoodieGram/blob/main/Screenshot%202026-03-13%20134416.png?raw=true)
+![image alt](https://github.com/NageshShankar/FoodieGram/blob/main/Screenshot%202026-03-13%20134503.png?raw=true)
+![image alt](https://github.com/NageshShankar/FoodieGram/blob/main/Screenshot%202026-03-13%20134542.png?raw=true)
 
 ---
 
