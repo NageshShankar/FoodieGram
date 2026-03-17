@@ -22,7 +22,7 @@ The platform combines social media style food discovery with practical features 
 Frontend
 React.js / Next.js
 Tailwind CSS
-JavaScript / TypeScript
+JavaScript / 
 
 Backend
 Node.js
@@ -34,7 +34,7 @@ MongoDB / Supabase
 Other Tools
 REST APIs
 Git & GitHub
-Hosting (Vercel / Hostinger)
+Hosting (Vercel / Render)
 
 ---
 
