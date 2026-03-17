@@ -19,21 +19,21 @@ The platform combines social media style food discovery with practical features 
 
 ## Tech Stack
 
-Frontend
-React.js / Next.js
-Tailwind CSS
+Frontend:
+React.js / Next.js,
+Tailwind CSS,
 JavaScript / 
 
-Backend
-Node.js
+Backend:
+Node.js,
 Express.js
 
-Database
+Database:
 MongoDB / Supabase
 
-Other Tools
-REST APIs
-Git & GitHub
+Other Tools:
+REST APIs,
+Git & GitHub,
 Hosting (Vercel / Render)
 
 ---
